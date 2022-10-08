@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p> <img src=https://komarev.com/ghpvc/?username=cnj176aa alt=cnj176aa/> </p>
+
 <!--
 **cnj176aa/cnj176aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
